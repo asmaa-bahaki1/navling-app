@@ -1,0 +1,71 @@
+.closelogo img{
+    width: 26px;
+    margin-top: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.closelogo h1{
+    margin-top: 45px;
+    margin-left: 490px;
+    color: white;
+}
+
+.tel{
+  margin: 0 auto;
+  max-width: 700px;
+  height: 100px;
+  background-color: #000000;
+  border-radius: 3px;
+}
+
+.tel h1{
+    margin-left: 120px;
+    margin-top: 64px;
+}
+
+.profils{
+    margin: 0 auto;
+    max-width: 700px;
+    height: 450px; 
+    border-radius: 3px; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: -30px;
+    width: 900px;
+}
+ 
+.profil1{
+    background-color: white;
+    width: 330px;
+    height: 320px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 9px;
+    border: 3px solid rgb(227, 180, 180);
+}
+
+.profil1:hover{    
+    border: 3px solid rgb(255, 255, 255);
+    background-color: rgb(227, 180, 180);
+}
+
+.profil1 img{
+    margin-left: 67px;
+    width: 190px;
+    cursor: pointer;
+    cursor: pointer;
+}
+
+.profil1 h1{
+    text-decoration: none; 
+    display: inline-block; 
+    color: #000000;
+    margin-left: 60px;
+    font-size: 19px;
+}
+
+.profil1 h1:hover{
+    color: white;
+}
