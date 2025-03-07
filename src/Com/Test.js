@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './Test.css';
-import leçon from './leçon.gif';
+import leçon from './lecon.gif';
 import { Link } from 'react-router-dom';
 
 export default function Test() {
