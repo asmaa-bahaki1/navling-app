@@ -1,6 +1,6 @@
 import React, { useState } from 'react'; 
 import { Link } from 'react-router-dom';
-import leçon from './leçon.gif';
+import leçon from './lecon.gif';
 
 export default function Chapitre1() {
 	const questions = [
